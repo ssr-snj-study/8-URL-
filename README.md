@@ -1,1 +1,1 @@
-# 8-URL-심의지
+# 8-URL Shortcut Design
